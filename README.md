@@ -1,6 +1,6 @@
 # Simple-React-projects
 
-This is a React project with 13 simple projects, where I cover basic React topics. 
+This is a React project with 13 simple projects, where I have covered basic React topics. 
 
 useState:
 
